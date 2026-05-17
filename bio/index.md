@@ -11,37 +11,37 @@ facebook: https://www.facebook.com/NodenHQ/
 
 # Noden
 
-Ayudamos a las empresas a operar mejor con software open source.
+**Optimización operativa mediante Software Open Source.**
 
-Implementamos **Odoo** — la plataforma que unifica ventas, inventario, facturación, manufactura y operación en un solo sistema. Lo hacemos con el rigor del software moderno: código limpio, en tu repositorio, sin lock-in.
+Ayudamos a empresas B2B a crecer y operar sin fricciones. Implementamos y adaptamos Odoo para unificar tus ventas, inventario y finanzas en un solo sistema, hecho a la medida de tu negocio.
 
-> Más de 50 implementaciones B2B en retail, distribución y servicios.
-
----
-
-## Lo que hacemos
-
-**Consultoría.**
-Diagnóstico, diseño e implementación de Odoo con localización completa para México y LATAM. Ventas, inventario, manufactura, CRM, facturación.
-
-**Desarrollo.**
-Módulos custom bajo estándares OCA. Conectores con SkydropX, SAT/CFDI, pasarelas de pago. Código limpio, documentado, entregado en tu GitHub.
-
-**Inteligencia artificial.**
-Agentes que operan dentro de Odoo sobre tus datos reales. Clasificación, sugerencias, atención, análisis operativo.
-
-**Mantenimiento de largo plazo.**
-Tus módulos sobreviven a cada nueva versión de Odoo. Para empresas, ISVs y agencias con catálogos multi-versión.
+> **+50 implementaciones exitosas** en retail, distribución y servicios.
 
 ---
 
-## Cómo trabajamos
+## 🛠️ Especialidades
 
-Equipo pequeño. Estándares altos.
-Sprints semanales con demo. Código en tu repositorio desde el día uno.
-Sin lock-in. Sin sorpresas en la factura.
+### **Consultoría y Localización**
+Diagnóstico técnico y funcional para implementar Odoo con localización completa para **México y LATAM**. Especialistas en la cadena de suministro, finanzas y operación compleja.
+
+### **Desarrollo de Alto Nivel**
+Construimos módulos robustos bajo estándares **OCA**. Expertos en conectores (SkydropX, SAT/CFDI, Pasarelas) y personalizaciones críticas. Tu código es tuyo: entregamos directamente en tu repositorio de GitHub.
+
+### **IA en el ERP**
+No solo datos, sino inteligencia. Desarrollamos agentes autónomos que operan dentro de Odoo: clasificación automática, análisis predictivo y automatización de flujos operativos basados en tus datos reales.
+
+### **Soporte y Evolución**
+Mantenimiento de largo plazo para empresas e ISVs. Garantizamos que tu ecosistema de módulos evolucione y sobreviva a las actualizaciones de versión de Odoo sin fricción.
 
 ---
 
-Guadalajara · LATAM
-[github.com/nodenhq](https://github.com/nodenhq)
+## 🤝 Nuestra Filosofía
+
+**Ingeniería, no solo configuración.**
+No somos solo consultores; somos desarrolladores. Aplicamos control de versiones, entornos de staging y pruebas automatizadas en cada proyecto.
+
+**Sin Lock-in.**
+Creemos en la libertad del software. El código se documenta y se entrega en propiedad del cliente desde el día uno. Sin contratos que te aten a un solo proveedor.
+
+**Transparencia Total.**
+Sprints semanales con entregas funcionales. Sabes exactamente en qué se invierte cada hora de desarrollo.

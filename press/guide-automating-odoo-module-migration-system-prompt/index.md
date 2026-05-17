@@ -1,7 +1,7 @@
 ---
 name: Guía para automatizar la migración de tus módulos de Odoo entre versiones con este System Prompt
 slug: guia-automatizar-migracion-modulos-odoo-system-prompt
-status: public
+status: published
 tags:
   - llm
   - system-prompt
