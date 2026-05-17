@@ -1,0 +1,38 @@
+name: Publish content to Sentilis
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "bio/**"
+      - "market/**"
+      - "press/**"
+      - ".github/workflows/sentilis-sync.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "bio/**"
+      - "market/**"
+      - "press/**"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Sentilis CLI
+        run: npm i -g @sentilis/cli
+
+      - name: Authenticate with Sentilis
+        run: sentilis auth login ${{ secrets.SENTILIS_TOKEN }}
+
+      - name: Sync content (strict)
+        run: sentilis sync . --strict
