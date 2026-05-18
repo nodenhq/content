@@ -3,7 +3,7 @@ export $(grep -v '^#' .env | xargs)
 rsync -av --delete \
   --exclude='.git/' \
   --exclude='.env' \
-  --exclude='.gitbub' \
+  --exclude='.github/' \
   --exclude='.env.example' \
   --exclude='.gitignore' \
   --exclude='pull.sh' \

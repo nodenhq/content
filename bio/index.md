@@ -3,10 +3,10 @@ name: Noden
 language: es
 status: published
 visibility: public
-role: Odoo Consulting & Development · AI in ERP
-location: Guadalajara, MX · LATAM
-github: https://github.com/nodenhq
-facebook: https://www.facebook.com/NodenHQ/
+role: Consulting & Development
+location: MX · LATAM
+github: https://github.com/nodenmx
+facebook: https://www.facebook.com/NodenMx/
 ---
 
 # Noden

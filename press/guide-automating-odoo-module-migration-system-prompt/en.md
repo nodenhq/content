@@ -1,5 +1,5 @@
 ---
-name: Guide to Automating Odoo Module Migrations with this AI System Prompt
+name: The System Prompt for migrating modules in Odoo
 slug: guide-automating-odoo-module-migration-system-prompt
 status: published
 tags:
